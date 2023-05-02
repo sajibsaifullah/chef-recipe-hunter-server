@@ -1,140 +1,492 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://example.com/chef-bangladeshi.jpg",
-    "chefName": "Sadia Rahman",
+    "chefPicture": "https://example.com/chef.jpg",
+    "chefName": "Sadia Ahmed",
     "country": "Bangladesh",
     "yearsOfExperience": 10,
-    "numOfRecipes": 50,
-    "bestRecipes": [
+    "numberOfRecipes": 5,
+    "likes": 100,
+    "recipes": [
       {
-        "recipeName": "Shorshe Ilish",
-        "recipePicture": "https://example.com/shorshe-ilish.jpg"
-      },
-      {
+        "recipeId": "R001",
+        "picture": "https://example.com/recipe1.jpg",
         "recipeName": "Beef Bhuna",
-        "recipePicture": "https://example.com/beef-bhuna.jpg"
+        "ingredients": [
+          "beef",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato",
+          "chili powder",
+          "cumin",
+          "coriander",
+          "garam masala",
+          "oil"
+        ],
+        "cookingMethod": [
+          "heat oil in a pan",
+          "fry onion until brown",
+          "add garlic and ginger",
+          "add beef and cook until browned",
+          "add tomato and spices",
+          "cook for 10-15 minutes",
+          "garnish with coriander leaves"
+        ],
+        "rating": 4.5
       },
       {
-        "recipeName": "Chicken Kacchi Biryani",
-        "recipePicture": "https://example.com/kacchi-biryani.jpg"
+        "recipeId": "R002",
+        "picture": "https://example.com/recipe2.jpg",
+        "recipeName": "Chicken Kacchi",
+        "ingredients": [
+          "basmati rice",
+          "chicken",
+          "onion",
+          "garlic",
+          "ginger",
+          "yogurt",
+          "chili powder",
+          "cumin",
+          "coriander",
+          "ghee"
+        ],
+        "cookingMethod": [
+          "marinate chicken with yogurt and spices",
+          "heat ghee in a pan",
+          "fry onion until brown",
+          "add garlic and ginger",
+          "add chicken and cook for a few minutes",
+          "layer rice and chicken in a pot",
+          "seal with dough and cook on low heat for 45 minutes",
+          "serve with raita"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipeId": "R003",
+        "picture": "https://example.com/recipe3.jpg",
+        "recipeName": "Pitha",
+        "ingredients": ["rice flour", "coconut", "jaggery", "cardamom", "oil"],
+        "cookingMethod": [
+          "mix rice flour with water to make a dough",
+          "make small balls and flatten them",
+          "fill with coconut and jaggery mixture",
+          "fold and seal the edges",
+          "steam for 10-15 minutes",
+          "serve hot"
+        ],
+        "rating": 4.2
       }
-    ],
-    "likes": 800
+    ]
   },
   {
     "id": 2,
-    "chefPicture": "https://example.com/chef-chinese.jpg",
-    "chefName": "Wei Chen",
-    "country": "China",
+    "chefPicture": "https://example.com/chef2.jpg",
+    "chefName": "Yuki Nakamura",
+    "country": "Japan",
     "yearsOfExperience": 12,
-    "numOfRecipes": 70,
-    "bestRecipes": [
+    "numberOfRecipes": 4,
+    "likes": 150,
+    "recipes": [
       {
-        "recipeName": "Kung Pao Chicken",
-        "recipePicture": "https://example.com/kung-pao-chicken.jpg"
+        "recipeId": "R001",
+        "picture": "https://example.com/recipe4.jpg",
+        "recipeName": "Tonkatsu",
+        "ingredients": [
+          "pork loin",
+          "flour",
+          "egg",
+          "panko breadcrumbs",
+          "salt",
+          "oil"
+        ],
+        "cookingMethod": [
+          "season pork with salt",
+          "dredge in flour",
+          "dip in beaten egg",
+          "coat in panko breadcrumbs",
+          "heat oil in a pan",
+          "fry pork until golden brown",
+          "serve with tonkatsu sauce and shredded cabbage"
+        ],
+        "rating": 4.7
       },
       {
-        "recipeName": "Hot and Sour Soup",
-        "recipePicture": "https://example.com/hot-sour-soup.jpg"
+        "recipeId": "R002",
+        "picture": "https://example.com/recipe5.jpg",
+        "recipeName": "Sushi Rolls",
+        "ingredients": [
+          "sushi rice",
+          "nori sheets",
+          "tuna",
+          "avocado",
+          "cucumber",
+          "carrot",
+          "soy sauce",
+          "wasabi"
+        ],
+        "cookingMethod": [
+          "cook sushi rice and let it cool",
+          "cut tuna, avocado, cucumber, and carrot into thin strips",
+          "place nori sheet on a sushi mat",
+          "spread rice over the nori",
+          "place tuna, avocado, cucumber, and carrot on top of the rice",
+          "roll tightly using the mat",
+          "cut into bite-sized pieces",
+          "serve with soy sauce and wasabi"
+        ],
+        "rating": 4.9
       },
       {
-        "recipeName": "Sichuan Beef Noodles",
-        "recipePicture": "https://example.com/sichuan-noodles.jpg"
+        "recipeId": "R003",
+        "picture": "https://example.com/recipe6.jpg",
+        "recipeName": "Okonomiyaki",
+        "ingredients": [
+          "cabbage",
+          "flour",
+          "egg",
+          "water",
+          "bacon",
+          "mayonnaise",
+          "okonomiyaki sauce",
+          "bonito flakes",
+          "dried seaweed"
+        ],
+        "cookingMethod": [
+          "shred cabbage and mix with flour, egg, and water to make a batter",
+          "heat a griddle and cook bacon until crispy",
+          "pour the batter over the bacon",
+          "add more bacon on top",
+          "flip and cook until both sides are golden brown",
+          "drizzle with mayonnaise and okonomiyaki sauce",
+          "sprinkle with bonito flakes and dried seaweed",
+          "serve hot"
+        ],
+        "rating": 4.5
       }
-    ],
-    "likes": 2000
+    ]
   },
   {
     "id": 3,
-    "chefPicture": "https://example.com/chef-italian.jpg",
-    "chefName": "Giovanni Rossi",
+    "chefPicture": "https://example.com/chef3.jpg",
+    "chefName": "Giuseppe Rossi",
     "country": "Italy",
-    "yearsOfExperience": 15,
-    "numOfRecipes": 80,
-    "bestRecipes": [
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 3,
+    "likes": 200,
+    "recipes": [
       {
+        "recipeId": "R001",
+        "picture": "https://example.com/recipe8.jpg",
         "recipeName": "Margherita Pizza",
-        "recipePicture": "https://example.com/margherita-pizza.jpg"
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "basil leaves"
+        ],
+        "cookingMethod": [
+          "preheat oven to 450°F",
+          "roll out pizza dough on a floured surface",
+          "spread tomato sauce on top of the dough",
+          "add mozzarella cheese",
+          "bake in the oven for 10-12 minutes",
+          "add basil leaves on top",
+          "serve hot"
+        ],
+        "rating": 4.8
       },
       {
-        "recipeName": "Pesto Pasta",
-        "recipePicture": "https://example.com/pesto-pasta.jpg"
+        "recipeId": "R002",
+        "picture": "https://example.com/recipe9.jpg",
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "Parmesan cheese",
+          "black pepper"
+        ],
+        "cookingMethod": [
+          "cook spaghetti in a pot of boiling salted water",
+          "fry bacon in a pan until crispy",
+          "whisk eggs and Parmesan cheese in a bowl",
+          "add cooked spaghetti to the pan with bacon",
+          "pour the egg mixture over the spaghetti",
+          "toss to combine",
+          "add black pepper to taste",
+          "serve hot"
+        ],
+        "rating": 4.6
       },
       {
+        "recipeId": "R003",
+        "picture": "https://example.com/recipe10.jpg",
         "recipeName": "Tiramisu",
-        "recipePicture": "https://example.com/tiramisu.jpg"
+        "ingredients": [
+          "ladyfingers",
+          "espresso",
+          "Marsala wine",
+          "mascarpone cheese",
+          "eggs",
+          "sugar",
+          "cocoa powder"
+        ],
+        "cookingMethod": [
+          "mix espresso and Marsala wine in a shallow dish",
+          "dip ladyfingers into the espresso mixture",
+          "arrange the ladyfingers in a layer in a square dish",
+          "mix mascarpone cheese, egg yolks, and sugar in a bowl",
+          "beat egg whites until stiff peaks form",
+          "fold the egg whites into the mascarpone mixture",
+          "spread half of the mascarpone mixture over the ladyfingers",
+          "repeat with another layer of ladyfingers and mascarpone mixture",
+          "dust the top with cocoa powder",
+          "refrigerate for at least 2 hours",
+          "serve cold"
+        ],
+        "rating": 4.9
       }
-    ],
-    "likes": 2500
+    ]
   },
   {
     "id": 4,
-    "chefPicture": "https://example.com/chef-japanese.jpg",
-    "chefName": "Sakura Nakamura",
-    "country": "Japan",
-    "yearsOfExperience": 8,
-    "numOfRecipes": 60,
-    "bestRecipes": [
+    "chefPicture": "https://example.com/chef4.jpg",
+    "chefName": "Neha Patel",
+    "country": "Indian",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 3,
+    "likes": 180,
+    "recipes": [
       {
-        "recipeName": "Sushi Rolls",
-        "recipePicture": "https://example.com/sushi-rolls.jpg"
+        "recipeId": "R001",
+        "picture": "https://example.com/recipe11.jpg",
+        "recipeName": "Butter Chicken",
+        "ingredients": [
+          "chicken",
+          "butter",
+          "cream",
+          "tomato puree",
+          "onion",
+          "garlic",
+          "ginger",
+          "spices"
+        ],
+        "cookingMethod": [
+          "marinate chicken in yogurt and spices",
+          "cook chicken in a pan",
+          "make the sauce with butter, onion, garlic, ginger, and tomato puree",
+          "add cream to the sauce",
+          "mix chicken and sauce",
+          "serve hot"
+        ],
+        "rating": 4.7
       },
       {
-        "recipeName": "Ramen Noodles",
-        "recipePicture": "https://example.com/ramen-noodles.jpg"
+        "recipeId": "R002",
+        "picture": "https://example.com/recipe12.jpg",
+        "recipeName": "Palak Paneer",
+        "ingredients": [
+          "spinach",
+          "paneer cheese",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato",
+          "spices"
+        ],
+        "cookingMethod": [
+          "blanch spinach leaves and blend into a puree",
+          "cook paneer in a pan",
+          "make the sauce with onion, garlic, ginger, and tomato",
+          "add the spinach puree to the sauce",
+          "add spices and paneer to the sauce",
+          "serve hot"
+        ],
+        "rating": 4.6
       },
       {
-        "recipeName": "Teriyaki Chicken",
-        "recipePicture": "https://example.com/teriyaki-chicken.jpg"
+        "recipeId": "R003",
+        "picture": "https://example.com/recipe13.jpg",
+        "recipeName": "Chana Masala",
+        "ingredients": [
+          "chickpeas",
+          "tomatoes",
+          "onion",
+          "garlic",
+          "ginger",
+          "spices"
+        ],
+        "cookingMethod": [
+          "cook chickpeas in a pressure cooker",
+          "make the sauce with onion, garlic, ginger, and tomatoes",
+          "add spices to the sauce",
+          "add chickpeas to the sauce",
+          "cook for a few minutes",
+          "serve hot"
+        ],
+        "rating": 4.5
       }
-    ],
-    "likes": 1200
+    ]
   },
   {
     "id": 5,
-    "chefPicture": "https://example.com/chef-mexican.jpg",
-    "chefName": "Juan Martinez",
-    "country": "Mexico",
-    "yearsOfExperience": 10,
-    "numOfRecipes": 50,
-    "bestRecipes": [
+    "chefPicture": "https://example.com/chef7.jpg",
+    "chefName": "Kim Lee",
+    "country": "Korean",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 3,
+    "likes": 200,
+    "recipes": [
       {
-        "recipeName": "Tacos Al Pastor",
-        "recipePicture": "https://example.com/tacos-al-pastor.jpg"
+        "recipeId": "R001",
+        "picture": "https://example.com/recipe21.jpg",
+        "recipeName": "Bibimbap",
+        "ingredients": [
+          "rice",
+          "vegetables (carrot, cucumber, spinach, bean sprouts, mushrooms)",
+          "beef",
+          "egg",
+          "gochujang sauce"
+        ],
+        "cookingMethod": [
+          "cook rice",
+          "prepare and sauté vegetables",
+          "grill or sauté beef",
+          "fry an egg",
+          "assemble the dish with rice, vegetables, beef, and egg",
+          "serve with gochujang sauce"
+        ],
+        "rating": 4.8
       },
       {
-        "recipeName": "Guacamole",
-        "recipePicture": "https://example.com/guacamole.jpg"
+        "recipeId": "R002",
+        "picture": "https://example.com/recipe22.jpg",
+        "recipeName": "Kimchi Fried Rice",
+        "ingredients": [
+          "rice",
+          "kimchi",
+          "bacon",
+          "onion",
+          "garlic",
+          "sesame oil",
+          "soy sauce"
+        ],
+        "cookingMethod": [
+          "cook rice",
+          "chop bacon, onion, and garlic",
+          "heat a pan with sesame oil",
+          "cook bacon, onion, and garlic in the pan",
+          "add kimchi to the pan",
+          "add rice to the pan and stir",
+          "add soy sauce to the pan and stir",
+          "serve hot"
+        ],
+        "rating": 4.7
       },
       {
-        "recipeName": "Chiles Rellenos",
-        "recipePicture": "https://example.com/chiles-rellenos.jpg"
+        "recipeId": "R003",
+        "picture": "https://example.com/recipe23.jpg",
+        "recipeName": "Japchae",
+        "ingredients": [
+          "sweet potato noodles",
+          "beef",
+          "spinach",
+          "carrot",
+          "onion",
+          "garlic",
+          "soy sauce",
+          "sesame oil"
+        ],
+        "cookingMethod": [
+          "soak and cook sweet potato noodles",
+          "prepare and sauté vegetables and beef separately",
+          "combine noodles, vegetables, and beef in a pan",
+          "add soy sauce and sesame oil to the pan and stir",
+          "serve hot"
+        ],
+        "rating": 4.6
       }
-    ],
-    "likes": 1500
+    ]
   },
   {
     "id": 6,
-    "chefPicture": "https://example.com/chef-thai.jpg",
-    "chefName": "Siriwat Thongchai",
-    "country": "Thailand",
-    "yearsOfExperience": 12,
-    "numOfRecipes": 70,
-    "bestRecipes": [
+    "chefPicture": "https://example.com/chef14.jpg",
+    "chefName": "Sofia Garcia",
+    "country": "Mexican",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 3,
+    "likes": 250,
+    "recipes": [
       {
-        "recipeName": "Tom Yum Soup",
-        "recipePicture": "https://example.com/tom-yum-soup.jpg"
+        "recipeId": "R001",
+        "picture": "https://example.com/recipe31.jpg",
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta or bacon",
+          "egg yolks",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cookingMethod": [
+          "boil spaghetti in salted water",
+          "cook pancetta or bacon in a pan until crispy",
+          "whisk together egg yolks, grated parmesan cheese, and black pepper",
+          "drain cooked spaghetti and add it to the pan with the pancetta or bacon",
+          "turn off the heat and pour in the egg mixture",
+          "stir quickly to coat the spaghetti with the sauce",
+          "serve hot"
+        ],
+        "rating": 4.9
       },
       {
-        "recipeName": "Green Curry Chicken",
-        "recipePicture": "https://example.com/green-curry-chicken.jpg"
+        "recipeId": "R002",
+        "picture": "https://example.com/recipe32.jpg",
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "fresh basil"
+        ],
+        "cookingMethod": [
+          "preheat oven to 450°F",
+          "roll out pizza dough and transfer it to a baking sheet",
+          "spread tomato sauce over the dough",
+          "sprinkle grated mozzarella cheese over the tomato sauce",
+          "bake for 10-12 minutes, until the crust is golden and the cheese is melted",
+          "remove from the oven and sprinkle chopped fresh basil on top",
+          "serve hot"
+        ],
+        "rating": 4.8
       },
       {
-        "recipeName": "Pad Thai",
-        "recipePicture": "https://example.com/pad-thai.jpg"
+        "recipeId": "R003",
+        "picture": "https://example.com/recipe33.jpg",
+        "recipeName": "Tiramisu",
+        "ingredients": [
+          "ladyfingers",
+          "espresso coffee",
+          "marsala wine",
+          "egg yolks",
+          "sugar",
+          "mascarpone cheese",
+          "cocoa powder"
+        ],
+        "cookingMethod": [
+          "mix espresso coffee and marsala wine in a bowl",
+          "dip ladyfingers in the coffee mixture and arrange them in a dish",
+          "beat egg yolks and sugar in a bowl until pale and creamy",
+          "add mascarpone cheese to the bowl and mix well",
+          "spread the mascarpone mixture over the ladyfingers in the dish",
+          "sift cocoa powder over the top of the mascarpone layer",
+          "chill in the refrigerator for at least 2 hours",
+          "serve cold"
+        ],
+        "rating": 4.7
       }
-    ],
-    "likes": 1800
+    ]
   }
 ]
