@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://example.com/chef-bangladeshi.jpg",
+    "chefName": "Sadia Rahman",
+    "country": "Bangladesh",
+    "yearsOfExperience": 10,
+    "numOfRecipes": 50,
+    "bestRecipes": [
+      {
+        "recipeName": "Shorshe Ilish",
+        "recipePicture": "https://example.com/shorshe-ilish.jpg"
+      },
+      {
+        "recipeName": "Beef Bhuna",
+        "recipePicture": "https://example.com/beef-bhuna.jpg"
+      },
+      {
+        "recipeName": "Chicken Kacchi Biryani",
+        "recipePicture": "https://example.com/kacchi-biryani.jpg"
+      }
+    ],
+    "likes": 800
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://example.com/chef-chinese.jpg",
+    "chefName": "Wei Chen",
+    "country": "China",
+    "yearsOfExperience": 12,
+    "numOfRecipes": 70,
+    "bestRecipes": [
+      {
+        "recipeName": "Kung Pao Chicken",
+        "recipePicture": "https://example.com/kung-pao-chicken.jpg"
+      },
+      {
+        "recipeName": "Hot and Sour Soup",
+        "recipePicture": "https://example.com/hot-sour-soup.jpg"
+      },
+      {
+        "recipeName": "Sichuan Beef Noodles",
+        "recipePicture": "https://example.com/sichuan-noodles.jpg"
+      }
+    ],
+    "likes": 2000
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://example.com/chef-italian.jpg",
+    "chefName": "Giovanni Rossi",
+    "country": "Italy",
+    "yearsOfExperience": 15,
+    "numOfRecipes": 80,
+    "bestRecipes": [
+      {
+        "recipeName": "Margherita Pizza",
+        "recipePicture": "https://example.com/margherita-pizza.jpg"
+      },
+      {
+        "recipeName": "Pesto Pasta",
+        "recipePicture": "https://example.com/pesto-pasta.jpg"
+      },
+      {
+        "recipeName": "Tiramisu",
+        "recipePicture": "https://example.com/tiramisu.jpg"
+      }
+    ],
+    "likes": 2500
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://example.com/chef-japanese.jpg",
+    "chefName": "Sakura Nakamura",
+    "country": "Japan",
+    "yearsOfExperience": 8,
+    "numOfRecipes": 60,
+    "bestRecipes": [
+      {
+        "recipeName": "Sushi Rolls",
+        "recipePicture": "https://example.com/sushi-rolls.jpg"
+      },
+      {
+        "recipeName": "Ramen Noodles",
+        "recipePicture": "https://example.com/ramen-noodles.jpg"
+      },
+      {
+        "recipeName": "Teriyaki Chicken",
+        "recipePicture": "https://example.com/teriyaki-chicken.jpg"
+      }
+    ],
+    "likes": 1200
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://example.com/chef-mexican.jpg",
+    "chefName": "Juan Martinez",
+    "country": "Mexico",
+    "yearsOfExperience": 10,
+    "numOfRecipes": 50,
+    "bestRecipes": [
+      {
+        "recipeName": "Tacos Al Pastor",
+        "recipePicture": "https://example.com/tacos-al-pastor.jpg"
+      },
+      {
+        "recipeName": "Guacamole",
+        "recipePicture": "https://example.com/guacamole.jpg"
+      },
+      {
+        "recipeName": "Chiles Rellenos",
+        "recipePicture": "https://example.com/chiles-rellenos.jpg"
+      }
+    ],
+    "likes": 1500
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://example.com/chef-thai.jpg",
+    "chefName": "Siriwat Thongchai",
+    "country": "Thailand",
+    "yearsOfExperience": 12,
+    "numOfRecipes": 70,
+    "bestRecipes": [
+      {
+        "recipeName": "Tom Yum Soup",
+        "recipePicture": "https://example.com/tom-yum-soup.jpg"
+      },
+      {
+        "recipeName": "Green Curry Chicken",
+        "recipePicture": "https://example.com/green-curry-chicken.jpg"
+      },
+      {
+        "recipeName": "Pad Thai",
+        "recipePicture": "https://example.com/pad-thai.jpg"
+      }
+    ],
+    "likes": 1800
+  }
+]
