@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://example.com/chef.jpg",
-    "chefName": "Sadia Ahmed",
+    "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
+    "chefName": "Sadi Ahmed",
     "country": "Bangladesh",
-    "shortBio": "Chef Sadia Ahmed has been cooking professionally for over 10 years. His specialty is Bangladeshi cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
+    "shortBio": "Chef Sadi Ahmed has been cooking professionally for over 10 years. His specialty is Bangladeshi cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
     "yearsOfExperience": 10,
     "numberOfRecipes": 5,
     "likes": 100,
     "recipes": [
       {
         "recipeId": "R001",
-        "picture": "https://example.com/recipe1.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Beef Bhuna",
         "ingredients": [
           "beef",
@@ -38,7 +38,7 @@
       },
       {
         "recipeId": "R002",
-        "picture": "https://example.com/recipe2.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Chicken Kacchi",
         "ingredients": [
           "basmati rice",
@@ -66,7 +66,7 @@
       },
       {
         "recipeId": "R003",
-        "picture": "https://example.com/recipe3.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Pitha",
         "ingredients": ["rice flour", "coconut", "jaggery", "cardamom", "oil"],
         "cookingMethod": [
@@ -83,7 +83,7 @@
   },
   {
     "id": 2,
-    "chefPicture": "https://example.com/chef2.jpg",
+    "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
     "chefName": "Yuki Nakamura",
     "country": "Japan",
     "shortBio": "Chef Yuki Nakamura has been cooking professionally for over 12 years. His specialty is Japanese cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
@@ -93,7 +93,7 @@
     "recipes": [
       {
         "recipeId": "R001",
-        "picture": "https://example.com/recipe4.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Tonkatsu",
         "ingredients": [
           "pork loin",
@@ -142,7 +142,7 @@
       },
       {
         "recipeId": "R003",
-        "picture": "https://example.com/recipe6.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Okonomiyaki",
         "ingredients": [
           "cabbage",
@@ -171,7 +171,7 @@
   },
   {
     "id": 3,
-    "chefPicture": "https://example.com/chef3.jpg",
+    "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
     "chefName": "Giuseppe Rossi",
     "country": "Italy",
     "shortBio": "Chef Giuseppe Rossi has been cooking professionally for over 20 years. His specialty is Italian cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
@@ -202,7 +202,7 @@
       },
       {
         "recipeId": "R002",
-        "picture": "https://example.com/recipe9.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Spaghetti Carbonara",
         "ingredients": [
           "spaghetti",
@@ -225,7 +225,7 @@
       },
       {
         "recipeId": "R003",
-        "picture": "https://example.com/recipe10.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Tiramisu",
         "ingredients": [
           "ladyfingers",
@@ -255,17 +255,17 @@
   },
   {
     "id": 4,
-    "chefPicture": "https://example.com/chef4.jpg",
-    "chefName": "Neha Patel",
+    "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
+    "chefName": "Nehal Patel",
     "country": "India",
-    "shortBio": "Chef Neha Patel has been cooking professionally for over 12 years. His specialty is Indian cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
+    "shortBio": "Chef Nehal Patel has been cooking professionally for over 12 years. His specialty is Indian cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
     "yearsOfExperience": 12,
     "numberOfRecipes": 3,
     "likes": 180,
     "recipes": [
       {
         "recipeId": "R001",
-        "picture": "https://example.com/recipe11.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Butter Chicken",
         "ingredients": [
           "chicken",
@@ -289,7 +289,7 @@
       },
       {
         "recipeId": "R002",
-        "picture": "https://example.com/recipe12.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Palak Paneer",
         "ingredients": [
           "spinach",
@@ -312,7 +312,7 @@
       },
       {
         "recipeId": "R003",
-        "picture": "https://example.com/recipe13.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Chana Masala",
         "ingredients": [
           "chickpeas",
@@ -336,7 +336,7 @@
   },
   {
     "id": 5,
-    "chefPicture": "https://example.com/chef7.jpg",
+    "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
     "chefName": "Kim Lee",
     "country": "Korea",
     "shortBio": "Chef Kim Lee has been cooking professionally for over 08 years. His specialty is Korean cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
@@ -346,7 +346,7 @@
     "recipes": [
       {
         "recipeId": "R001",
-        "picture": "https://example.com/recipe21.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Bibimbap",
         "ingredients": [
           "rice",
@@ -367,7 +367,7 @@
       },
       {
         "recipeId": "R002",
-        "picture": "https://example.com/recipe22.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Kimchi Fried Rice",
         "ingredients": [
           "rice",
@@ -392,7 +392,7 @@
       },
       {
         "recipeId": "R003",
-        "picture": "https://example.com/recipe23.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Japchae",
         "ingredients": [
           "sweet potato noodles",
@@ -417,17 +417,17 @@
   },
   {
     "id": 6,
-    "chefPicture": "https://example.com/chef14.jpg",
-    "chefName": "Sofia Garcia",
+    "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
+    "chefName": "Sofi Garcia",
     "country": "Mexico",
-    "shortBio": "Chef Sofia Garcia has been cooking professionally for over 15 years. His specialty is Mexican cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
+    "shortBio": "Chef Sofi Garcia has been cooking professionally for over 15 years. His specialty is Mexican cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
     "yearsOfExperience": 15,
     "numberOfRecipes": 3,
     "likes": 250,
     "recipes": [
       {
         "recipeId": "R001",
-        "picture": "https://example.com/recipe31.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Spaghetti Carbonara",
         "ingredients": [
           "spaghetti",
@@ -449,7 +449,7 @@
       },
       {
         "recipeId": "R002",
-        "picture": "https://example.com/recipe32.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Margherita Pizza",
         "ingredients": [
           "pizza dough",
@@ -470,7 +470,7 @@
       },
       {
         "recipeId": "R003",
-        "picture": "https://example.com/recipe33.jpg",
+        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
         "recipeName": "Tiramisu",
         "ingredients": [
           "ladyfingers",
