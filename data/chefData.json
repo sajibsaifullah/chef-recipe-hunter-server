@@ -1,253 +1,208 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
-    "chefName": "Sadi Ahmed",
-    "country": "Bangladesh",
-    "shortBio": "Chef Sadi Ahmed has been cooking professionally for over 10 years. His specialty is Bangladeshi cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
-    "yearsOfExperience": 10,
-    "numberOfRecipes": 5,
-    "likes": 100,
+    "chefPicture": "https://pbs.twimg.com/profile_images/3111924519/5ec36640a0b9ca1a623dc6bb661d7516_400x400.jpeg",
+    "chefName": "Sadia Dehlvi",
+    "shortBio": "Chef Sadia is a renowned chef with over 15 years of experience in Bangladeshi cuisine.",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 50,
+    "likes": 1000,
     "recipes": [
       {
-        "recipeId": "R001",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Beef Bhuna",
+        "recipeId": 1,
+        "picture": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg",
+        "recipeName": "Shorshe Ilish",
         "ingredients": [
-          "beef",
-          "onion",
-          "garlic",
-          "ginger",
-          "tomato",
-          "chili powder",
-          "cumin",
-          "coriander",
-          "garam masala",
-          "oil"
+          "Hilsa fish",
+          "Mustard seeds",
+          "Green chillies",
+          "Turmeric powder",
+          "Salt"
         ],
         "cookingMethod": [
-          "heat oil in a pan",
-          "fry onion until brown",
-          "add garlic and ginger",
-          "add beef and cook until browned",
-          "add tomato and spices",
-          "cook for 10-15 minutes",
-          "garnish with coriander leaves"
+          "Marinate the fish with turmeric and salt",
+          "Fry the fish in mustard oil",
+          "Grind mustard seeds with green chillies to make a paste",
+          "Cook the fish with the mustard paste"
         ],
         "rating": 4.5
       },
       {
-        "recipeId": "R002",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Chicken Kacchi",
+        "recipeId": 2,
+        "picture": "https://www.shutterstock.com/image-photo/steamed-rice-cake-bhapa-pitha-260nw-2110882244.jpg",
+        "recipeName": "Bhapa Pitha",
         "ingredients": [
-          "basmati rice",
-          "chicken",
-          "onion",
-          "garlic",
-          "ginger",
-          "yogurt",
-          "chili powder",
-          "cumin",
-          "coriander",
-          "ghee"
+          "Rice flour",
+          "Coconut",
+          "Jaggery",
+          "Water",
+          "Salt"
         ],
         "cookingMethod": [
-          "marinate chicken with yogurt and spices",
-          "heat ghee in a pan",
-          "fry onion until brown",
-          "add garlic and ginger",
-          "add chicken and cook for a few minutes",
-          "layer rice and chicken in a pot",
-          "seal with dough and cook on low heat for 45 minutes",
-          "serve with raita"
-        ],
-        "rating": 4.8
-      },
-      {
-        "recipeId": "R003",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Pitha",
-        "ingredients": ["rice flour", "coconut", "jaggery", "cardamom", "oil"],
-        "cookingMethod": [
-          "mix rice flour with water to make a dough",
-          "make small balls and flatten them",
-          "fill with coconut and jaggery mixture",
-          "fold and seal the edges",
-          "steam for 10-15 minutes",
-          "serve hot"
+          "Mix rice flour, grated coconut, jaggery and salt",
+          "Make small cakes with the mixture",
+          "Steam the cakes for 20 minutes"
         ],
         "rating": 4.2
+      },
+      {
+        "recipeId": 3,
+        "picture": "https://i.ytimg.com/vi/ZYPe6Slobwo/maxresdefault.jpg",
+        "recipeName": "Chingri Malai Curry",
+        "ingredients": [
+          "Prawns",
+          "Coconut milk",
+          "Onion",
+          "Ginger",
+          "Garlic"
+        ],
+        "cookingMethod": [
+          "Marinate the prawns with turmeric and salt",
+          "Fry the prawns in oil",
+          "Saute onion, ginger and garlic in the same pan",
+          "Add coconut milk and spices to the pan",
+          "Cook the prawns in the gravy"
+        ],
+        "rating": 4.7
       }
     ]
   },
   {
     "id": 2,
     "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
-    "chefName": "Yuki Nakamura",
-    "country": "Japan",
-    "shortBio": "Chef Yuki Nakamura has been cooking professionally for over 12 years. His specialty is Japanese cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
-    "yearsOfExperience": 12,
-    "numberOfRecipes": 4,
-    "likes": 150,
+    "chefName": "Rifat Ahmed",
+    "shortBio": "Rifat Ahmed is a renowned chef with over 10 years of experience in Bangladeshi cuisine.",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 20,
+    "likes": 1000,
     "recipes": [
       {
-        "recipeId": "R001",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Tonkatsu",
+        "recipeId": 1,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Beef Bhuna",
         "ingredients": [
-          "pork loin",
-          "flour",
-          "egg",
-          "panko breadcrumbs",
-          "salt",
-          "oil"
+          "beef",
+          "onion",
+          "garlic",
+          "ginger",
+          "chili"
         ],
         "cookingMethod": [
-          "season pork with salt",
-          "dredge in flour",
-          "dip in beaten egg",
-          "coat in panko breadcrumbs",
-          "heat oil in a pan",
-          "fry pork until golden brown",
-          "serve with tonkatsu sauce and shredded cabbage"
-        ],
-        "rating": 4.7
-      },
-      {
-        "recipeId": "R002",
-        "picture": "https://example.com/recipe5.jpg",
-        "recipeName": "Sushi Rolls",
-        "ingredients": [
-          "sushi rice",
-          "nori sheets",
-          "tuna",
-          "avocado",
-          "cucumber",
-          "carrot",
-          "soy sauce",
-          "wasabi"
-        ],
-        "cookingMethod": [
-          "cook sushi rice and let it cool",
-          "cut tuna, avocado, cucumber, and carrot into thin strips",
-          "place nori sheet on a sushi mat",
-          "spread rice over the nori",
-          "place tuna, avocado, cucumber, and carrot on top of the rice",
-          "roll tightly using the mat",
-          "cut into bite-sized pieces",
-          "serve with soy sauce and wasabi"
-        ],
-        "rating": 4.9
-      },
-      {
-        "recipeId": "R003",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Okonomiyaki",
-        "ingredients": [
-          "cabbage",
-          "flour",
-          "egg",
-          "water",
-          "bacon",
-          "mayonnaise",
-          "okonomiyaki sauce",
-          "bonito flakes",
-          "dried seaweed"
-        ],
-        "cookingMethod": [
-          "shred cabbage and mix with flour, egg, and water to make a batter",
-          "heat a griddle and cook bacon until crispy",
-          "pour the batter over the bacon",
-          "add more bacon on top",
-          "flip and cook until both sides are golden brown",
-          "drizzle with mayonnaise and okonomiyaki sauce",
-          "sprinkle with bonito flakes and dried seaweed",
-          "serve hot"
+          "heat oil",
+          "fry onion",
+          "add garlic and ginger",
+          "add beef",
+          "add spices",
+          "cook until tender"
         ],
         "rating": 4.5
+      },
+      {
+        "recipeId": 2,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Fish Kalia",
+        "ingredients": [
+          "fish",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato"
+        ],
+        "cookingMethod": [
+          "heat oil",
+          "fry onion",
+          "add garlic and ginger",
+          "add tomato",
+          "add fish",
+          "cook until tender"
+        ],
+        "rating": 4.2
+      },
+      {
+        "recipeId": 3,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Lau Shukto",
+        "ingredients": [
+          "bottle gourd",
+          "mustard",
+          "poppy seeds",
+          "eggplant",
+          "radish"
+        ],
+        "cookingMethod": [
+          "slice vegetables",
+          "fry in oil",
+          "add spices and water",
+          "cook until tender"
+        ],
+        "rating": 4.8
       }
     ]
   },
   {
     "id": 3,
     "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
-    "chefName": "Giuseppe Rossi",
-    "country": "Italy",
-    "shortBio": "Chef Giuseppe Rossi has been cooking professionally for over 20 years. His specialty is Italian cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
-    "yearsOfExperience": 20,
-    "numberOfRecipes": 3,
-    "likes": 200,
+    "chefName": "Raj Ahmed",
+    "shortBio": "Raj Ahmed is a passionate cook with over 10 years of experience in traditional Bangladeshi cooking.",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 25,
+    "likes": 1500,
     "recipes": [
       {
-        "recipeId": "R001",
-        "picture": "https://example.com/recipe8.jpg",
-        "recipeName": "Margherita Pizza",
+        "recipeId": 1,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Chapli Kabab",
         "ingredients": [
-          "pizza dough",
-          "tomato sauce",
-          "mozzarella cheese",
-          "basil leaves"
+          "ground beef",
+          "tomato",
+          "onion",
+          "spices",
+          "egg"
         ],
         "cookingMethod": [
-          "preheat oven to 450°F",
-          "roll out pizza dough on a floured surface",
-          "spread tomato sauce on top of the dough",
-          "add mozzarella cheese",
-          "bake in the oven for 10-12 minutes",
-          "add basil leaves on top",
-          "serve hot"
+          "mix beef, tomato, onion, and spices",
+          "shape into patties",
+          "coat with egg",
+          "pan-fry until cooked"
         ],
         "rating": 4.8
       },
       {
-        "recipeId": "R002",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Spaghetti Carbonara",
+        "recipeId": 2,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Khichuri",
         "ingredients": [
-          "spaghetti",
-          "bacon",
-          "eggs",
-          "Parmesan cheese",
-          "black pepper"
+          "rice",
+          "lentils",
+          "spices",
+          "potato",
+          "onion"
         ],
         "cookingMethod": [
-          "cook spaghetti in a pot of boiling salted water",
-          "fry bacon in a pan until crispy",
-          "whisk eggs and Parmesan cheese in a bowl",
-          "add cooked spaghetti to the pan with bacon",
-          "pour the egg mixture over the spaghetti",
-          "toss to combine",
-          "add black pepper to taste",
-          "serve hot"
+          "wash rice and lentils",
+          "add spices, potato, and onion",
+          "cook in a pot with water",
+          "stir occasionally until cooked"
         ],
-        "rating": 4.6
+        "rating": 4.7
       },
       {
-        "recipeId": "R003",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Tiramisu",
+        "recipeId": 3,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Murgir Jhol",
         "ingredients": [
-          "ladyfingers",
-          "espresso",
-          "Marsala wine",
-          "mascarpone cheese",
-          "eggs",
-          "sugar",
-          "cocoa powder"
+          "chicken",
+          "potato",
+          "spices",
+          "onion",
+          "tomato"
         ],
         "cookingMethod": [
-          "mix espresso and Marsala wine in a shallow dish",
-          "dip ladyfingers into the espresso mixture",
-          "arrange the ladyfingers in a layer in a square dish",
-          "mix mascarpone cheese, egg yolks, and sugar in a bowl",
-          "beat egg whites until stiff peaks form",
-          "fold the egg whites into the mascarpone mixture",
-          "spread half of the mascarpone mixture over the ladyfingers",
-          "repeat with another layer of ladyfingers and mascarpone mixture",
-          "dust the top with cocoa powder",
-          "refrigerate for at least 2 hours",
-          "serve cold"
+          "heat oil",
+          "fry onion and tomato",
+          "add spices",
+          "add chicken and potato",
+          "cook until tender"
         ],
         "rating": 4.9
       }
@@ -255,161 +210,132 @@
   },
   {
     "id": 4,
-    "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
-    "chefName": "Nehal Patel",
-    "country": "India",
-    "shortBio": "Chef Nehal Patel has been cooking professionally for over 12 years. His specialty is Indian cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
-    "yearsOfExperience": 12,
-    "numberOfRecipes": 3,
-    "likes": 180,
+    "chefPicture": "https://pbs.twimg.com/profile_images/3111924519/5ec36640a0b9ca1a623dc6bb661d7516_400x400.jpeg",
+    "chefName": "Nazma Begum",
+    "shortBio": "Chef Nazma Begum is a Bangladeshi culinary expert with over 15 years of experience in cooking a variety of traditional Bangladeshi dishes.",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 35,
+    "likes": 2500,
     "recipes": [
       {
-        "recipeId": "R001",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Butter Chicken",
+        "recipeId": 1,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Biryani",
         "ingredients": [
-          "chicken",
-          "butter",
-          "cream",
-          "tomato puree",
+          "rice",
+          "meat",
           "onion",
-          "garlic",
-          "ginger",
-          "spices"
+          "spices",
+          "yogurt"
         ],
         "cookingMethod": [
-          "marinate chicken in yogurt and spices",
-          "cook chicken in a pan",
-          "make the sauce with butter, onion, garlic, ginger, and tomato puree",
-          "add cream to the sauce",
-          "mix chicken and sauce",
-          "serve hot"
+          "cook meat with spices",
+          "boil rice separately",
+          "layer rice and meat",
+          "cook on low heat until done"
         ],
         "rating": 4.7
       },
       {
-        "recipeId": "R002",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Palak Paneer",
+        "recipeId": 2,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Shorshe Ilish",
         "ingredients": [
-          "spinach",
-          "paneer cheese",
-          "onion",
-          "garlic",
-          "ginger",
-          "tomato",
-          "spices"
+          "hilsa fish",
+          "mustard paste",
+          "green chili",
+          "turmeric",
+          "oil"
         ],
         "cookingMethod": [
-          "blanch spinach leaves and blend into a puree",
-          "cook paneer in a pan",
-          "make the sauce with onion, garlic, ginger, and tomato",
-          "add the spinach puree to the sauce",
-          "add spices and paneer to the sauce",
-          "serve hot"
+          "mix mustard paste, green chili, and turmeric",
+          "coat fish with the mixture",
+          "fry fish in oil until cooked"
         ],
-        "rating": 4.6
+        "rating": 4.9
       },
       {
-        "recipeId": "R003",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Chana Masala",
+        "recipeId": 3,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Chitol Macher Muithya",
         "ingredients": [
-          "chickpeas",
-          "tomatoes",
+          "chitol fish",
+          "chickpea flour",
+          "spices",
           "onion",
-          "garlic",
-          "ginger",
-          "spices"
+          "garlic"
         ],
         "cookingMethod": [
-          "cook chickpeas in a pressure cooker",
-          "make the sauce with onion, garlic, ginger, and tomatoes",
-          "add spices to the sauce",
-          "add chickpeas to the sauce",
-          "cook for a few minutes",
-          "serve hot"
+          "mash fish with spices",
+          "add chickpea flour",
+          "make small balls",
+          "fry in oil until golden brown"
         ],
-        "rating": 4.5
+        "rating": 4.8
       }
     ]
   },
   {
     "id": 5,
     "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
-    "chefName": "Kim Lee",
-    "country": "Korea",
-    "shortBio": "Chef Kim Lee has been cooking professionally for over 08 years. His specialty is Korean cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
-    "yearsOfExperience": 8,
-    "numberOfRecipes": 3,
-    "likes": 200,
+    "chefName": "Amjad Rumi",
+    "shortBio": "Amjad Rumi is a Bangladeshi culinary artist with a passion for fusion cuisine. She combines traditional Bangladeshi flavors with modern techniques to create unique and flavorful dishes.",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 25,
+    "likes": 1800,
     "recipes": [
       {
-        "recipeId": "R001",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Bibimbap",
+        "recipeId": 1,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Mango Chicken",
         "ingredients": [
-          "rice",
-          "vegetables (carrot, cucumber, spinach, bean sprouts, mushrooms)",
-          "beef",
-          "egg",
-          "gochujang sauce"
+          "chicken",
+          "mango",
+          "onion",
+          "ginger",
+          "garlic"
         ],
         "cookingMethod": [
-          "cook rice",
-          "prepare and sauté vegetables",
-          "grill or sauté beef",
-          "fry an egg",
-          "assemble the dish with rice, vegetables, beef, and egg",
-          "serve with gochujang sauce"
+          "marinate chicken with mango puree",
+          "saute onion, ginger, and garlic",
+          "add chicken to the pan and cook until done"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeId": 2,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Bhuna Shrimp",
+        "ingredients": [
+          "shrimp",
+          "onion",
+          "tomato",
+          "spices",
+          "cilantro"
+        ],
+        "cookingMethod": [
+          "saute onion and tomato",
+          "add spices and cook until fragrant",
+          "add shrimp and cook until done",
+          "garnish with cilantro"
         ],
         "rating": 4.8
       },
       {
-        "recipeId": "R002",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Kimchi Fried Rice",
+        "recipeId": 3,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Tandoori Lamb Chops",
         "ingredients": [
-          "rice",
-          "kimchi",
-          "bacon",
-          "onion",
-          "garlic",
-          "sesame oil",
-          "soy sauce"
+          "lamb chops",
+          "yogurt",
+          "spices",
+          "lemon",
+          "mint"
         ],
         "cookingMethod": [
-          "cook rice",
-          "chop bacon, onion, and garlic",
-          "heat a pan with sesame oil",
-          "cook bacon, onion, and garlic in the pan",
-          "add kimchi to the pan",
-          "add rice to the pan and stir",
-          "add soy sauce to the pan and stir",
-          "serve hot"
-        ],
-        "rating": 4.7
-      },
-      {
-        "recipeId": "R003",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Japchae",
-        "ingredients": [
-          "sweet potato noodles",
-          "beef",
-          "spinach",
-          "carrot",
-          "onion",
-          "garlic",
-          "soy sauce",
-          "sesame oil"
-        ],
-        "cookingMethod": [
-          "soak and cook sweet potato noodles",
-          "prepare and sauté vegetables and beef separately",
-          "combine noodles, vegetables, and beef in a pan",
-          "add soy sauce and sesame oil to the pan and stir",
-          "serve hot"
+          "marinate lamb chops with yogurt, spices, and lemon juice",
+          "grill until cooked to desired doneness",
+          "garnish with mint"
         ],
         "rating": 4.6
       }
@@ -417,81 +343,70 @@
   },
   {
     "id": 6,
-    "chefPicture": "https://etimg.etb2bimg.com/thumb/msid-75043086,width-1200,resizemode-4/.jpg",
-    "chefName": "Sofi Garcia",
-    "country": "Mexico",
-    "shortBio": "Chef Sofi Garcia has been cooking professionally for over 15 years. His specialty is Mexican cuisine, and he loves using fresh ingredients to create bold, flavorful dishes.",
+    "chefPicture": "https://pbs.twimg.com/profile_images/3111924519/5ec36640a0b9ca1a623dc6bb661d7516_400x400.jpeg",
+    "chefName": "Rumin Farzana",
+    "shortBio": "Rumin Farzana is a Bangladeshi chef who specializes in creating healthy and nutritious meals. She focuses on using fresh, local ingredients and traditional cooking methods to make delicious Bangladeshi cuisine.",
     "yearsOfExperience": 15,
-    "numberOfRecipes": 3,
-    "likes": 250,
+    "numberOfRecipes": 40,
+    "likes": 2500,
     "recipes": [
       {
-        "recipeId": "R001",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Spaghetti Carbonara",
+        "recipeId": 1,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Spinach and Lentil Curry",
         "ingredients": [
-          "spaghetti",
-          "pancetta or bacon",
-          "egg yolks",
-          "parmesan cheese",
-          "black pepper"
+          "spinach",
+          "lentils",
+          "onion",
+          "tomato",
+          "spices"
         ],
         "cookingMethod": [
-          "boil spaghetti in salted water",
-          "cook pancetta or bacon in a pan until crispy",
-          "whisk together egg yolks, grated parmesan cheese, and black pepper",
-          "drain cooked spaghetti and add it to the pan with the pancetta or bacon",
-          "turn off the heat and pour in the egg mixture",
-          "stir quickly to coat the spaghetti with the sauce",
-          "serve hot"
-        ],
-        "rating": 4.9
-      },
-      {
-        "recipeId": "R002",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Margherita Pizza",
-        "ingredients": [
-          "pizza dough",
-          "tomato sauce",
-          "mozzarella cheese",
-          "fresh basil"
-        ],
-        "cookingMethod": [
-          "preheat oven to 450°F",
-          "roll out pizza dough and transfer it to a baking sheet",
-          "spread tomato sauce over the dough",
-          "sprinkle grated mozzarella cheese over the tomato sauce",
-          "bake for 10-12 minutes, until the crust is golden and the cheese is melted",
-          "remove from the oven and sprinkle chopped fresh basil on top",
-          "serve hot"
-        ],
-        "rating": 4.8
-      },
-      {
-        "recipeId": "R003",
-        "picture": "https://themes.ongoingthemes.com/chefscuisine/wp-content/uploads/2018/10/recipe-3.jpg",
-        "recipeName": "Tiramisu",
-        "ingredients": [
-          "ladyfingers",
-          "espresso coffee",
-          "marsala wine",
-          "egg yolks",
-          "sugar",
-          "mascarpone cheese",
-          "cocoa powder"
-        ],
-        "cookingMethod": [
-          "mix espresso coffee and marsala wine in a bowl",
-          "dip ladyfingers in the coffee mixture and arrange them in a dish",
-          "beat egg yolks and sugar in a bowl until pale and creamy",
-          "add mascarpone cheese to the bowl and mix well",
-          "spread the mascarpone mixture over the ladyfingers in the dish",
-          "sift cocoa powder over the top of the mascarpone layer",
-          "chill in the refrigerator for at least 2 hours",
-          "serve cold"
+          "cook lentils in water until tender",
+          "saute onion and tomato",
+          "add spices and cook until fragrant",
+          "add spinach and cooked lentils",
+          "simmer until flavors blend"
         ],
         "rating": 4.7
+      },
+      {
+        "recipeId": 2,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Fish and Vegetable Stew",
+        "ingredients": [
+          "fish",
+          "carrots",
+          "potatoes",
+          "green beans",
+          "coconut milk"
+        ],
+        "cookingMethod": [
+          "saute fish until lightly browned",
+          "saute vegetables",
+          "add coconut milk and spices",
+          "simmer until vegetables are tender",
+          "add fish and cook until done"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipeId": 3,
+        "picture": "https://static.toiimg.com/thumb/68964872.cms?resizemode=4&width=1200",
+        "recipeName": "Spiced Chicken Kebabs",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "spices",
+          "onion",
+          "bell pepper"
+        ],
+        "cookingMethod": [
+          "marinate chicken in yogurt and spices",
+          "skewer chicken with onion and bell pepper",
+          "grill until cooked through"
+        ],
+        "rating": 4.8
       }
     ]
   }
